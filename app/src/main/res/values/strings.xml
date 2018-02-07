@@ -1,0 +1,114 @@
+<resources>
+    <string name="app_name">Vacation Decider App</string>
+
+    <string-array name="country">
+        <item>
+            England
+        </item>
+        <item>
+            Germany
+        </item>
+        <item>
+            France
+        </item>
+        <item>
+            Poland
+        </item>
+        <item>
+            USA
+        </item>
+    </string-array>
+
+    <string-array name="city">
+        <item>
+            London
+        </item>
+
+        <item>
+            Berlin
+        </item>
+
+        <item>
+            Paris
+        </item>
+
+        <item>
+            Warzawa
+        </item>
+
+        <item>
+            New York
+        </item>
+
+    </string-array>
+
+    <string-array name="hotel">
+            <item>
+                Royal Garden Hotel
+            </item>
+
+            <item>
+                City Hotel Berlin East
+            </item>
+
+            <item>
+                Hotel Terminus Lyon
+            </item>
+
+            <item>
+                Warsaw Marriott Hotel
+            </item>
+
+            <item>
+                The Belvedere Hotel
+            </item>
+
+    </string-array>
+
+    <string-array name="expenditure">
+        <item>
+            1744
+        </item>
+
+        <item>
+            425
+        </item>
+
+        <item>
+            633
+        </item>
+
+        <item>
+            641
+        </item>
+
+        <item>
+            925
+        </item>
+
+    </string-array>
+
+    <string-array name="fly">
+            <item>
+                1595
+            </item>
+
+            <item>
+                1527
+            </item>
+
+            <item>
+                1611
+            </item>
+
+            <item>
+               1428
+            </item>
+
+            <item>
+               2959
+            </item>
+
+    </string-array>
+
+</resources>
